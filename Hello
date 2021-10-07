@@ -1,7 +1,0 @@
-<html>
-   <body>
-      <? Php
-         echo "Hello world";
-      ? >
-   </body>
-</html>
